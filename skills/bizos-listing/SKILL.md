@@ -1,6 +1,6 @@
 ---
 name: bizos-listing
-description: Draft or audit Amazon Listings from verified product and competitor evidence. Prefer authorized BizOS MCP data when connected; otherwise use user-supplied and accessible public sources. Use for titles, bullets, descriptions, Search Terms, A+ or image briefs, keyword coverage, and Listing optimization.
+description: Draft or audit Amazon Listings from verified product and competitor evidence. Prefer authorized BizOS MCP data; otherwise use user-supplied and accessible public sources. Use for titles, bullets, Search Terms, A+, and competitor research. 当用户要写或优化亚马逊 Listing、标题、五点、搜索词、A+、竞品分析时使用。
 ---
 
 # BizOS Listing
